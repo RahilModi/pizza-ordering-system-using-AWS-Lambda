@@ -1,4 +1,4 @@
-# assignment2-CMPE273
+# pizza ordering system using AWS Lambda
 Abstract
 
 You will be building a pizza ordering system using AWS Lambda for handling business logic, API Gateway for REST interface, and DynamoDB for data persistence.
